@@ -83,9 +83,9 @@ El diseño implementa una interfaz limpia, mensajes dinámicos y validación de 
 
 ## 📸 Vista previa de la interfaz (Mockup)
 
-![Vista de la app](images/1.png)
-![Vista de la app](images/2.png)
-![Vista de la app](images/3.png)
+![Vista de la app](images/1.jpeg)
+![Vista de la app](images/2.jpeg)
+![Vista de la app](images/3.jpeg)
 
 ## ✨ Autor
 
